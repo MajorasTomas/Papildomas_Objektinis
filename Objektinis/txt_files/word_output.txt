@@ -1,0 +1,134 @@
+jau            pasikartoja: 2  kartus, eilutėse: 30 34 
+įveikė         pasikartoja: 2  kartus, eilutėse: 9 21 
+vokiečius      pasikartoja: 2  kartus, eilutėse: 31 32 
+valdovo        pasikartoja: 2  kartus, eilutėse: 9 20 
+prieš          pasikartoja: 2  kartus, eilutėse: 12 31 
+burundajaus    pasikartoja: 2  kartus, eilutėse: 28 29 
+tai            pasikartoja: 2  kartus, eilutėse: 4 10 
+būti           pasikartoja: 2  kartus, eilutėse: 6 34 
+sprendžiant    pasikartoja: 2  kartus, eilutėse: 3 17 
+nugalėjo       pasikartoja: 2  kartus, eilutėse: 15 22 
+dalis          pasikartoja: 2  kartus, eilutėse: 29 29 
+dalyje         pasikartoja: 2  kartus, eilutėse: 14 14 
+mūšio          pasikartoja: 2  kartus, eilutėse: 15 31 
+danila         pasikartoja: 2  kartus, eilutėse: 10 27 
+kurių          pasikartoja: 2  kartus, eilutėse: 4 7 
+didysis        pasikartoja: 2  kartus, eilutėse: 1 10 
+žemaitiją      pasikartoja: 2  kartus, eilutėse: 26 32 
+tiksliai       pasikartoja: 2  kartus, eilutėse: 5 10 
+dviejų         pasikartoja: 2  kartus, eilutėse: 4 16 
+dėl            pasikartoja: 2  kartus, eilutėse: 17 20 
+dėlto          pasikartoja: 2  kartus, eilutėse: 19 33 
+latvijoje      pasikartoja: 2  kartus, eilutėse: 13 35 
+galėjo         pasikartoja: 2  kartus, eilutėse: 6 34 
+gedvydo        pasikartoja: 2  kartus, eilutėse: 16 21 
+gedvydu        pasikartoja: 2  kartus, eilutėse: 15 17 
+yra            pasikartoja: 2  kartus, eilutėse: 2 35 
+petro          pasikartoja: 2  kartus, eilutėse: 24 25 
+vainikuoti     pasikartoja: 2  kartus, eilutėse: 25 26 
+istorijos      pasikartoja: 2  kartus, eilutėse: 3 7 
+liepojos       pasikartoja: 2  kartus, eilutėse: 13 14 
+vainikavimo    pasikartoja: 2  kartus, eilutėse: 2 25 
+vyriausiojo    pasikartoja: 2  kartus, eilutėse: 5 8 
+rajono         pasikartoja: 2  kartus, eilutėse: 13 14 
+vokiečių       pasikartoja: 2  kartus, eilutėse: 20 32 
+tik            pasikartoja: 2  kartus, eilutėse: 8 28 
+mindaugu       pasikartoja: 2  kartus, eilutėse: 10 18 
+metais         pasikartoja: 2  kartus, eilutėse: 8 25 
+rusios         pasikartoja: 2  kartus, eilutėse: 15 15 
+daujoto        pasikartoja: 2  kartus, eilutėse: 5 16 
+kai            pasikartoja: 2  kartus, eilutėse: 4 26 
+pusę           pasikartoja: 2  kartus, eilutėse: 22 26 
+karaliumi      pasikartoja: 2  kartus, eilutėse: 2 26 
+netrukus       pasikartoja: 2  kartus, eilutėse: 23 26 
+kariuomenės    pasikartoja: 2  kartus, eilutėse: 28 30 
+kartu          pasikartoja: 2  kartus, eilutėse: 15 35 
+lietuvą        pasikartoja: 2  kartus, eilutėse: 24 24 
+kilo           pasikartoja: 2  kartus, eilutėse: 17 17 
+klemensas      pasikartoja: 2  kartus, eilutėse: 33 34 
+krikšto        pasikartoja: 2  kartus, eilutėse: 20 23 
+krikščionybės  pasikartoja: 2  kartus, eilutėse: 31 34 
+kronikoje      pasikartoja: 2  kartus, eilutėse: 3 4 
+rytuose        pasikartoja: 2  kartus, eilutėse: 13 26 
+šiaurės        pasikartoja: 2  kartus, eilutėse: 14 35 
+taikos         pasikartoja: 2  kartus, eilutėse: 4 8 
+taiką          pasikartoja: 2  kartus, eilutėse: 26 28 
+tais           pasikartoja: 2  kartus, eilutėse: 8 25 
+šv             pasikartoja: 2  kartus, eilutėse: 24 25 
+vardu          pasikartoja: 2  kartus, eilutėse: 4 7 
+tautvilas      pasikartoja: 2  kartus, eilutėse: 17 18 
+žemaitijos     pasikartoja: 2  kartus, eilutėse: 16 26 
+žemaičių       pasikartoja: 2  kartus, eilutėse: 19 21 
+tautvilo       pasikartoja: 2  kartus, eilutėse: 16 21 
+pr             pasikartoja: 2  kartus, eilutėse: 16 18 
+žiemą          pasikartoja: 2  kartus, eilutėse: 12 28 
+už             pasikartoja: 2  kartus, eilutėse: 26 27 
+živinbuto      pasikartoja: 2  kartus, eilutėse: 5 8 
+vienas         pasikartoja: 2  kartus, eilutėse: 7 33 
+pat            pasikartoja: 2  kartus, eilutėse: 1 5 
+savo           pasikartoja: 2  kartus, eilutėse: 16 22 
+pab            pasikartoja: 2  kartus, eilutėse: 16 27 
+vis            pasikartoja: 2  kartus, eilutėse: 19 33 
+pabaigoje      pasikartoja: 2  kartus, eilutėse: 31 36 
+valdovu        pasikartoja: 3  kartus, eilutėse: 10 10 33 
+arba           pasikartoja: 3  kartus, eilutėse: 5 5 25 
+šaltiniuose    pasikartoja: 3  kartus, eilutėse: 3 6 7 
+beveik         pasikartoja: 3  kartus, eilutėse: 26 26 32 
+dab            pasikartoja: 3  kartus, eilutėse: 13 14 35 
+totorių        pasikartoja: 3  kartus, eilutėse: 28 29 30 
+dalį           pasikartoja: 3  kartus, eilutėse: 16 17 26 
+taip           pasikartoja: 3  kartus, eilutėse: 1 5 24 
+dar            pasikartoja: 3  kartus, eilutėse: 18 22 27 
+gal            pasikartoja: 3  kartus, eilutėse: 8 25 26 
+tuometinės     pasikartoja: 3  kartus, eilutėse: 16 24 26 
+istorikų       pasikartoja: 3  kartus, eilutėse: 17 26 29 
+jotvingių      pasikartoja: 3  kartus, eilutėse: 19 21 22 
+jų             pasikartoja: 3  kartus, eilutėse: 16 20 28 
+kunigaikštis   pasikartoja: 3  kartus, eilutėse: 1 10 15 
+karas          pasikartoja: 3  kartus, eilutėse: 17 17 19 
+kelių          pasikartoja: 3  kartus, eilutėse: 7 23 35 
+žemės          pasikartoja: 3  kartus, eilutėse: 7 17 21 
+kunigaikščių   pasikartoja: 3  kartus, eilutėse: 7 16 21 
+liepos         pasikartoja: 3  kartus, eilutėse: 2 23 25 
+vidaus         pasikartoja: 3  kartus, eilutėse: 17 19 19 
+lietuvių       pasikartoja: 3  kartus, eilutėse: 7 22 26 
+metraščio      pasikartoja: 3  kartus, eilutėse: 4 17 23 
+metu           pasikartoja: 3  kartus, eilutėse: 15 19 28 
+didžiojo       pasikartoja: 3  kartus, eilutėse: 3 5 14 
+mindaugui      pasikartoja: 3  kartus, eilutėse: 16 19 27 
+pasak          pasikartoja: 3  kartus, eilutėse: 9 17 26 
+voluinėnų      pasikartoja: 3  kartus, eilutėse: 18 28 29 
+popiežius      pasikartoja: 3  kartus, eilutėse: 24 25 33 
+žūties         pasikartoja: 3  kartus, eilutėse: 4 35 36 
+kaip           pasikartoja: 4  kartus, eilutėse: 7 10 24 26 
+tapo           pasikartoja: 4  kartus, eilutėse: 9 11 34 36 
+ordino         pasikartoja: 4  kartus, eilutėse: 12 18 20 20 
+jis            pasikartoja: 4  kartus, eilutėse: 11 30 32 34 
+voluinės       pasikartoja: 4  kartus, eilutėse: 4 17 23 34 
+mindaugą       pasikartoja: 4  kartus, eilutėse: 5 25 33 35 
+kunigaikščiu   pasikartoja: 5  kartus, eilutėse: 9 11 19 27 36 
+nuo            pasikartoja: 5  kartus, eilutėse: 29 31 33 34 35 
+o              pasikartoja: 5  kartus, eilutėse: 8 26 26 34 36 
+kunigaikščio   pasikartoja: 5  kartus, eilutėse: 5 5 6 8 14 
+kad            pasikartoja: 5  kartus, eilutėse: 4 6 10 29 30 
+po             pasikartoja: 5  kartus, eilutėse: 23 26 31 34 36 
+iv             pasikartoja: 5  kartus, eilutėse: 20 24 29 33 34 
+iki            pasikartoja: 5  kartus, eilutėse: 4 17 19 22 26 
+į              pasikartoja: 5  kartus, eilutėse: 9 18 22 30 35 
+didžiuoju      pasikartoja: 5  kartus, eilutėse: 9 11 19 27 36 
+buvo           pasikartoja: 5  kartus, eilutėse: 4 26 27 28 30 
+visą           pasikartoja: 6  kartus, eilutėse: 16 26 26 26 26 26 
+jo             pasikartoja: 6  kartus, eilutėse: 12 19 23 25 32 35 
+haličovoluinės pasikartoja: 6  kartus, eilutėse: 4 8 10 18 21 27 
+apie           pasikartoja: 7  kartus, eilutėse: 1 1 3 4 18 27 34 
+d              pasikartoja: 7  kartus, eilutėse: 1 2 15 23 25 25 26 
+bei            pasikartoja: 7  kartus, eilutėse: 16 18 23 26 28 31 35 
+iš             pasikartoja: 8  kartus, eilutėse: 3 7 16 17 29 32 33 35 
+livonijos      pasikartoja: 8  kartus, eilutėse: 3 12 13 18 18 20 21 34 
+mindaugas      pasikartoja: 10 kartus, eilutėse: 1 6 7 9 21 22 25 26 27 31 
+su             pasikartoja: 10 kartus, eilutėse: 10 10 15 17 18 19 25 27 32 35 
+ar             pasikartoja: 12 kartus, eilutėse: 4 5 9 11 16 16 17 17 20 22 27 31 
+mindaugo       pasikartoja: 21 kartus, eilutėse: 2 3 3 4 4 12 18 19 20 20 23 23 27 29 33 33 34 34 35 36 36 
+lietuvos       pasikartoja: 34 kartus, eilutėse: 1 1 2 2 4 4 5 5 7 7 8 8 9 9 10 10 12 14 17 17 19 20 21 26 26 26 28 29 30 31 32 32 34 36 
+ir             pasikartoja: 35 kartus, eilutėse: 3 4 4 4 8 9 9 14 15 16 18 19 19 20 20 21 21 21 22 23 24 25 25 25 26 26 26 26 28 28 29 30 31 32 34 
+m              pasikartoja: 37 kartus, eilutėse: 1 1 4 5 7 10 11 12 12 15 16 16 17 17 18 19 19 20 20 22 23 25 26 26 26 27 27 28 29 30 31 32 33 33 34 35 36 
